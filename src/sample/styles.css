@@ -1,0 +1,6 @@
+.button {
+    -fx-background-color: blue;
+    -fx-font-size: 16px;
+    -fx-font-style: oblique white;
+    -fx-text-fill: white;
+}
